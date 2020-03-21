@@ -107,6 +107,7 @@ html.animationgif .reveal .slide-background
     width: 100%;
     height: 100%;
     content: "";
+    z-index: 1;
   }
 
   &.overlay-dark20:before {background-color: rgba(34,34,34,0.2)}
